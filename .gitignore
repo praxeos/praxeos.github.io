@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site
 .DS_Store
 *.sublime-project
@@ -6,3 +7,7 @@ codekit-config.json
 node_modules
 _asset_bundler_cache
 .sass-cache
+=======
+_site/
+.sass-cache/
+>>>>>>> b95a7bcddc61b2718111577fe5465471b6f00ef4
